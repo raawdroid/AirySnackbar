@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AirySnackBar</string>
+
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="warning">Warning</string>
+    <string name="info">Info</string>
+    <string name="sound_notification">Sound on</string>
+    <string name="custom">Custom</string>
+</resources>
